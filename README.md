@@ -2,7 +2,7 @@
   <b>Universidad Autónoma de Chihuahua</b>
 </h1>
 <h2 align="center">
-  <b>Facultad de Ingeniaría</b>
+  <b>Facultad de Ingeniería</b>
 </h2>
 <br>
 <p align = "center">
