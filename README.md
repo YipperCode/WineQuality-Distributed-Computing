@@ -36,18 +36,9 @@
 </p>
 <p align="center">
   <b>Profesor:</b>
-  Jesús Roberto López Santillán
+   José Saúl De Lira Miramontes
 </p>
 <br>
-
-<p align="center">
-  <b>Github:</b>
-  <a href='https://github.com/mus1cian/Wine-Quality-Prediction' >WineClassifier</a>
-</p>
-<p align="center">
-  <b>Deployment:</b>
-  <a href='https://mus1cian-wine-quality-prediction-app-dck61g.streamlit.app/' >Streamlit</a>
-</p>
 
 <p align="left">
   A lunes 21 de mayo de 2023
