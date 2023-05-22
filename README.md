@@ -51,4 +51,7 @@
   <td>
     <a target="_blank" href="https://github.com/YipperCode/WineQuality-Distributed-Computing"><img src="https://img.shields.io/badge/Git-Open%20in%20Github-blue" /></a>
   </td>
+      <td>
+    <a target="_blank" href="https://mus1cian-wine-quality-prediction-app-dck61g.streamlit.app/"><img src="https://img.shields.io/badge/Implementation-Streamlit-brightgreen" /></a>
+  </td>
 </table>
